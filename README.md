@@ -26,7 +26,7 @@ git clone https://github.com/Kumar-Jy/trrtool.git
 ```
 
 ```console
-cd Termux-Root-Recovery-Tool
+cd trrtool
 ```
 ```console
 chmod +x flash.sh && chmod +x flash-stock-rom.sh && chmod +x flashAB.sh
