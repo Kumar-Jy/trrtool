@@ -22,7 +22,7 @@ yes | pkg install git
 # Installation Termux-Root-Recovery-Tool :-
 
 ```console
-git clone https://github.com/Ishu43642/Termux-Root-Recovery-Tool.git
+git clone https://github.com/Kumar-Jy/trrtool.git
 ```
 
 ```console
