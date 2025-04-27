@@ -1,7 +1,7 @@
 <img align="right" src="TRRT.jpg" width="350" alt="Termux Root Recovery Tool">
 
 # Termux-Root-Recovery-Tool
-This tool install Twrp Recovery, Boot.img, vbmeta.img Magisk Root in bootloader unlocked devices only
+This tool install GSi rom, Fastboot Rom, install Twrp Recovery, Boot.img, vbmeta.img Magisk Root in bootloader unlocked devices only
 
 # installation :- 
 
@@ -29,7 +29,7 @@ git clone https://github.com/Kumar-Jy/trrtool.git
 cd trrtool
 ```
 ```console
-chmod +x flash.sh && chmod +x flash-stock-rom.sh && chmod +x flashAB.sh
+chmod +x flash.sh && chmod +x flash-stock-rom.sh && chmod +x flashAB.sh && chmod +x gsi-flash.sh
 ```
 # installation Termux-Adb :-
 [Termux-Adb Fastboot](https://github.com/nohajc/termux-adb) 
